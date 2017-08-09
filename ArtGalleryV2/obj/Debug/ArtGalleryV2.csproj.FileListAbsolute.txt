@@ -1,0 +1,167 @@
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\ApplicationInsights.config
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\csc.exe
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\vbc.exe
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\VBCSCompiler.exe
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.dll.config
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.pdb
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Antlr3.Runtime.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\AspNet.Identity.MySQL.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.SqlServer.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Web.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ApplicationInsights.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Newtonsoft.Json.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Owin.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Optimization.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Providers.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\WebGrease.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\MySql.Data.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\AspNet.Identity.MySQL.pdb
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Web.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ApplicationInsights.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Optimization.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Antlr3.Runtime.pdb
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Newtonsoft.Json.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.SqlServer.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Providers.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.csprojResolveAssemblyReference.cache
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.dll
+c:\users\imran\onedrive\documents\visual studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.pdb
+C:\Users\imran\OneDrive\Documents\Visual Studio 2015\Projects\ArtGalleryV2\ArtGalleryV2\bin\MySql.Data.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\ApplicationInsights.config
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\csc.exe
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\System.Collections.Immutable.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\System.Reflection.Metadata.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\vbc.exe
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\VBCSCompiler.exe
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\roslyn\VBCSCompiler.exe.config
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.dll.config
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\ArtGalleryV2.pdb
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Antlr3.Runtime.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\AspNet.Identity.MySQL.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\AspNet.ScriptManager.bootstrap.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\AspNet.ScriptManager.jQuery.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.SqlServer.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Agent.Intercept.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.DependencyCollector.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Web.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.WindowsServer.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ApplicationInsights.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Core.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Facebook.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Google.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.OAuth.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Twitter.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ScriptManager.WebForms.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Web.Infrastructure.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Newtonsoft.Json.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Owin.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Optimization.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Providers.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\WebGrease.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\AspNet.Identity.MySQL.pdb
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\AspNet.Identity.MySQL.dll.config
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.DependencyCollector.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.Web.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AI.WindowsServer.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.ApplicationInsights.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\MySql.Data.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Optimization.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Antlr3.Runtime.pdb
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Newtonsoft.Json.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\EntityFramework.SqlServer.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Core.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\System.Web.Providers.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Facebook.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Google.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.Twitter.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\Microsoft.Owin.Security.OAuth.xml
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.csprojResolveAssemblyReference.cache
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.dll
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\obj\Debug\ArtGalleryV2.pdb
+G:\DataBase\ct2\ArtGalleryV2\ArtGalleryV2\bin\itextsharp.xml

@@ -4,7 +4,7 @@
 
 * This is a web based project
 * This uses ASP.NET
-* Thus is built to manage a Art Gallery
+* Thus is built to manage an Art Gallery
 * Here Admin can post images of various types of art
 * Users can rate and buy the arts
 
